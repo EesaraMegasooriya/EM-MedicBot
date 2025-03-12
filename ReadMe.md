@@ -1,9 +1,9 @@
 
-# MedicBot.ai
+# MedicBot.AI
 
 
 
-**MedicBot.ai** is an AI-powered assistant designed to provide accurate, evidence-based answers to health-related queries. It can help users with general medical advice, symptoms understanding, health tips, and lifestyle recommendations based on best practices.
+**MedicBot.AI** is an AI-powered assistant designed to provide accurate, evidence-based answers to health-related queries. It can help users with general medical advice, symptoms understanding, health tips, and lifestyle recommendations based on best practices.
 
 🔹 Key Features:
 
