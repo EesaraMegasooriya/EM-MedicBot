@@ -1,0 +1,517 @@
+[
+    {
+        "input":"What are the causes and prevention methods for Hypertension?",
+        "output":"Hypertension can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Hypertension, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Diabetes?",
+        "output":"Diabetes can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Diabetes, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Obesity?",
+        "output":"Obesity can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Obesity, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Heart Disease?",
+        "output":"Heart Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Heart Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Asthma?",
+        "output":"Asthma can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Asthma, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Arthritis?",
+        "output":"Arthritis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Arthritis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Depression?",
+        "output":"Depression can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Depression, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Anxiety?",
+        "output":"Anxiety can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Anxiety, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Migraines?",
+        "output":"Migraines can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Migraines, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Osteoporosis?",
+        "output":"Osteoporosis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Osteoporosis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Allergies?",
+        "output":"Allergies can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Allergies, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Common Cold?",
+        "output":"Common Cold can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Common Cold, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Influenza?",
+        "output":"Influenza can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Influenza, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Bronchitis?",
+        "output":"Bronchitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Bronchitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Pneumonia?",
+        "output":"Pneumonia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Pneumonia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Tuberculosis?",
+        "output":"Tuberculosis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Tuberculosis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Hepatitis?",
+        "output":"Hepatitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Hepatitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Liver Disease?",
+        "output":"Liver Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Liver Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Kidney Disease?",
+        "output":"Kidney Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Kidney Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Urinary Tract Infection?",
+        "output":"Urinary Tract Infection can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Urinary Tract Infection, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Gastroenteritis?",
+        "output":"Gastroenteritis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Gastroenteritis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Constipation?",
+        "output":"Constipation can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Constipation, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Acid Reflux?",
+        "output":"Acid Reflux can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Acid Reflux, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Irritable Bowel Syndrome?",
+        "output":"Irritable Bowel Syndrome can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Irritable Bowel Syndrome, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Celiac Disease?",
+        "output":"Celiac Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Celiac Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Crohn's Disease?",
+        "output":"Crohn's Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Crohn's Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Ulcerative Colitis?",
+        "output":"Ulcerative Colitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Ulcerative Colitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Anemia?",
+        "output":"Anemia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Anemia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Thyroid Disorders?",
+        "output":"Thyroid Disorders can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Thyroid Disorders, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Vitamin D Deficiency?",
+        "output":"Vitamin D Deficiency can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Vitamin D Deficiency, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Vitamin B12 Deficiency?",
+        "output":"Vitamin B12 Deficiency can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Vitamin B12 Deficiency, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Iron Deficiency?",
+        "output":"Iron Deficiency can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Iron Deficiency, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Skin Cancer?",
+        "output":"Skin Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Skin Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Eczema?",
+        "output":"Eczema can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Eczema, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Psoriasis?",
+        "output":"Psoriasis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Psoriasis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Dandruff?",
+        "output":"Dandruff can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Dandruff, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Hair Loss?",
+        "output":"Hair Loss can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Hair Loss, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Acne?",
+        "output":"Acne can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Acne, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Sunburn?",
+        "output":"Sunburn can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Sunburn, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Heat Stroke?",
+        "output":"Heat Stroke can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Heat Stroke, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Food Poisoning?",
+        "output":"Food Poisoning can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Food Poisoning, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Insomnia?",
+        "output":"Insomnia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Insomnia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Sleep Apnea?",
+        "output":"Sleep Apnea can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Sleep Apnea, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Chronic Fatigue Syndrome?",
+        "output":"Chronic Fatigue Syndrome can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Chronic Fatigue Syndrome, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Multiple Sclerosis?",
+        "output":"Multiple Sclerosis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Multiple Sclerosis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Epilepsy?",
+        "output":"Epilepsy can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Epilepsy, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Stroke?",
+        "output":"Stroke can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Stroke, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Parkinson's Disease?",
+        "output":"Parkinson's Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Parkinson's Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Alzheimer's Disease?",
+        "output":"Alzheimer's Disease can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Alzheimer's Disease, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Dementia?",
+        "output":"Dementia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Dementia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Glaucoma?",
+        "output":"Glaucoma can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Glaucoma, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Cataracts?",
+        "output":"Cataracts can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Cataracts, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Eye Strain?",
+        "output":"Eye Strain can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Eye Strain, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Hearing Loss?",
+        "output":"Hearing Loss can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Hearing Loss, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Tinnitus?",
+        "output":"Tinnitus can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Tinnitus, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Vertigo?",
+        "output":"Vertigo can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Vertigo, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Sinusitis?",
+        "output":"Sinusitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Sinusitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Tonsillitis?",
+        "output":"Tonsillitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Tonsillitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Laryngitis?",
+        "output":"Laryngitis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Laryngitis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Menstrual Cramps?",
+        "output":"Menstrual Cramps can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Menstrual Cramps, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Polycystic Ovary Syndrome (PCOS)?",
+        "output":"Polycystic Ovary Syndrome (PCOS) can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Polycystic Ovary Syndrome (PCOS), focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Endometriosis?",
+        "output":"Endometriosis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Endometriosis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Menopause?",
+        "output":"Menopause can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Menopause, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Pregnancy Complications?",
+        "output":"Pregnancy Complications can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Pregnancy Complications, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Erectile Dysfunction?",
+        "output":"Erectile Dysfunction can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Erectile Dysfunction, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Prostate Enlargement?",
+        "output":"Prostate Enlargement can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Prostate Enlargement, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Infertility?",
+        "output":"Infertility can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Infertility, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Sexually Transmitted Diseases?",
+        "output":"Sexually Transmitted Diseases can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Sexually Transmitted Diseases, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for HIV\/AIDS?",
+        "output":"HIV\/AIDS can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent HIV\/AIDS, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Chronic Pain?",
+        "output":"Chronic Pain can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Chronic Pain, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Fibromyalgia?",
+        "output":"Fibromyalgia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Fibromyalgia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Sciatica?",
+        "output":"Sciatica can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Sciatica, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Back Pain?",
+        "output":"Back Pain can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Back Pain, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Neck Pain?",
+        "output":"Neck Pain can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Neck Pain, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Carpal Tunnel Syndrome?",
+        "output":"Carpal Tunnel Syndrome can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Carpal Tunnel Syndrome, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Osteoarthritis?",
+        "output":"Osteoarthritis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Osteoarthritis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Rheumatoid Arthritis?",
+        "output":"Rheumatoid Arthritis can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Rheumatoid Arthritis, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Gout?",
+        "output":"Gout can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Gout, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Lupus?",
+        "output":"Lupus can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Lupus, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Autoimmune Diseases?",
+        "output":"Autoimmune Diseases can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Autoimmune Diseases, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Leukemia?",
+        "output":"Leukemia can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Leukemia, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Lymphoma?",
+        "output":"Lymphoma can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Lymphoma, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Breast Cancer?",
+        "output":"Breast Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Breast Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Lung Cancer?",
+        "output":"Lung Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Lung Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Colon Cancer?",
+        "output":"Colon Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Colon Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Prostate Cancer?",
+        "output":"Prostate Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Prostate Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Cervical Cancer?",
+        "output":"Cervical Cancer can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Cervical Cancer, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Skin Infections?",
+        "output":"Skin Infections can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Skin Infections, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Yeast Infections?",
+        "output":"Yeast Infections can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Yeast Infections, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Fungal Infections?",
+        "output":"Fungal Infections can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Fungal Infections, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Bacterial Infections?",
+        "output":"Bacterial Infections can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Bacterial Infections, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Viral Infections?",
+        "output":"Viral Infections can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Viral Infections, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Dengue Fever?",
+        "output":"Dengue Fever can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Dengue Fever, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Malaria?",
+        "output":"Malaria can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Malaria, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Typhoid Fever?",
+        "output":"Typhoid Fever can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Typhoid Fever, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Cholera?",
+        "output":"Cholera can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Cholera, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Rabies?",
+        "output":"Rabies can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Rabies, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Zika Virus?",
+        "output":"Zika Virus can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Zika Virus, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for COVID-19 Variants?",
+        "output":"COVID-19 Variants can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent COVID-19 Variants, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Monkeypox?",
+        "output":"Monkeypox can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Monkeypox, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Inflammation?",
+        "output":"Inflammation can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Inflammation, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Metabolic Syndrome?",
+        "output":"Metabolic Syndrome can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Metabolic Syndrome, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    },
+    {
+        "input":"What are the causes and prevention methods for Obstructive Sleep Apnea?",
+        "output":"Obstructive Sleep Apnea can be caused by various factors including genetics, lifestyle choices, poor diet, and environmental factors. To prevent it, maintain a healthy lifestyle, eat a balanced diet, engage in regular physical activity, and consult a healthcare professional for regular checkups.",
+        "health_tips":"To manage or prevent Obstructive Sleep Apnea, focus on a nutrient-rich diet, drink plenty of water, avoid processed foods, get regular exercise, ensure adequate sleep, and practice stress management techniques."
+    }
+]
